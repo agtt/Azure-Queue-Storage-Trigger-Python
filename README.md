@@ -1,6 +1,4 @@
-# Azure-Queue-Storage-Trigger-Python
-Azure Queue Function Storage Trigger Class
-
+# Azure Queue Storage Trigger Python Class
 
 # Requirements
 pip install azure-storage-queue
